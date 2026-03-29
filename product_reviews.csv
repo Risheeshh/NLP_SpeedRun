@@ -1,0 +1,31 @@
+review_text,sentiment
+"This phone is amazing and works perfectly",Positive
+"Battery life is terrible and drains fast",Negative
+"Great value for money, highly recommend",Positive
+"The product quality exceeded my expectations",Positive
+"Screen cracks easily, very disappointed",Negative
+"Excellent customer service and fast delivery",Positive
+"Camera quality is poor and blurry",Negative
+"Best purchase I've made this year",Positive
+"Build quality feels cheap and fragile",Negative
+"Outstanding performance and reliability",Positive
+"Not worth the price, broke after a week",Negative
+"Highly satisfied with my purchase",Positive
+"Overheating issues and constant freezing",Negative
+"Perfect fit and great design",Positive
+"Display is dull and colors are washed out",Negative
+"Amazing features and easy to use",Positive
+"Software updates made it worse",Negative
+"Incredible value, would buy again",Positive
+"Buttons are unresponsive and faulty",Negative
+"Fantastic product, fast shipping",Positive
+"Packaging was damaged and product defective",Negative
+"Love the sleek design and functionality",Positive
+"Charger doesn't work properly",Negative
+"Exceeded expectations in every way",Positive
+"Poor build quality and design flaws",Negative
+"Brilliant device with amazing features",Positive
+"Speaker quality is muffled and weak",Negative
+"Absolutely worth every penny",Positive
+"Bluetooth connectivity keeps dropping",Negative
+"Premium quality and excellent performance",Positive
